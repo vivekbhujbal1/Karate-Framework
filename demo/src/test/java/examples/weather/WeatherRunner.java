@@ -1,4 +1,4 @@
-package example.weather;
+package examples.weather;
 
 import com.intuit.karate.junit5.Karate;
 
